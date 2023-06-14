@@ -1,0 +1,33 @@
+{
+    font-family: 'calibri', Courier, monospace;
+    font-size: 15px;
+}
+html {
+    background-color: hsl(#5a6394);
+}
+#apps {
+    width: 760px;
+    height: auto;
+    margin: auto;
+    margin-top: 100px;
+    padding: 20px;
+    border-radius: 15px;
+    background-color: #5b5b86;
+}
+h1 {
+    color: rgb(255, 252, 252);
+    font-size: 30px;
+    text-align:center;
+}
+.first{
+    width: 760px;
+    height: auto;
+    margin: auto;
+    padding: 30px;
+    border-radius: 15px;
+    background-color: #a8a8de;
+} 
+.first form p a{
+    color: rgb(235, 226, 226);
+}
+}
